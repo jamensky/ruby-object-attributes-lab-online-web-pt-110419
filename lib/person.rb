@@ -1,6 +1,6 @@
 class Person
 
-  def name=(name) #Getter 
+  def name=(name) #Getter
     @name = name
   end
 
